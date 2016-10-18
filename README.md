@@ -8,6 +8,9 @@ Help to WAV file creation by spreadsheet.
 
 このリポジトリでは、リリースおよびプレリリースのバイナリ配布、アドイン作成のためのインタフェースの公開を予定しています。
 
+### バージョン
+Latest: 1.1.1
+
 ## 作者
 limemidolin `<lime@midolin.info>`
 
